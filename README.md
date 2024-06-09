@@ -30,6 +30,9 @@ Brick Breaker is a classic arcade game where the player controls a paddle to bou
    - Break all the bricks to win. A message will appear congratulating you.
    - Press Enter to restart the game.
 
+   ![3](https://github.com/anlbora/BrickBrakerGame/assets/100442507/04c08221-744e-4832-a328-01997e303cda)
+
+
 5. **Game Over:**
    - If the ball falls below the paddle, the game is over.
    - A message will appear showing your final score.
